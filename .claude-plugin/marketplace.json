@@ -1,0 +1,16 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "HaTranBK",
+    "url": "https://github.com/HaTranBK"
+  },
+  "description": "Marketplace of Claude Code skills extracted from the image_generator project: backend, frontend, UI/UX, databases, debugging, testing, git workflow, planning, copywriting and more.",
+  "plugins": [
+    {
+      "name": "claude-skills",
+      "source": "./",
+      "description": "24 bundled skills (ck:backend-development, ck:frontend-development, ck:ui-ux-pro-max, ck:databases, ck:debug, ck:test, ck:git, ck:plan, and more).",
+      "version": "1.0.0"
+    }
+  ]
+}
