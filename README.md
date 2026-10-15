@@ -9,16 +9,16 @@ In Claude Code, run:
 
 ```
 /plugin marketplace add HaTranBK/claude-skills
-/plugin install claude-skills@claude-skills
+/plugin install dev-skills-pack@claude-skills
 ```
 
-That adds this repo as a marketplace and installs the `claude-skills` plugin, which brings all 24 skills below into your session.
+That adds this repo as a marketplace and installs the `dev-skills-pack` plugin, which brings all 24 skills below into your session.
 
 To update later:
 
 ```
 /plugin marketplace update claude-skills
-/plugin update claude-skills@claude-skills
+/plugin update dev-skills-pack@claude-skills
 ```
 
 ## What's inside

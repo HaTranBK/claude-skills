@@ -1,5 +1,5 @@
 {
-  "name": "claude-skills",
+  "name": "dev-skills-pack",
   "version": "1.0.0",
   "description": "24 Claude Code skills (backend, frontend, UI/UX, databases, debugging, testing, git, planning, copywriting, and more) bundled from the image_generator project.",
   "author": {
